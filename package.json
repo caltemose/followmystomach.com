@@ -1,0 +1,31 @@
+{
+  "name": "followmystomach.com",
+  "version": "0.1.0",
+  "description": "Source code and content for followmystomach.com",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caltemose/followmystomach.com.git"
+  },
+  "author": "Chad L. Altemose",
+  "license": "private",
+  "bugs": {
+    "url": "https://github.com/caltemose/followmystomach.com/issues"
+  },
+  "homepage": "https://github.com/caltemose/followmystomach.com#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-s3": "^0.11.0",
+    "gulp-stylint": "^4.0.0",
+    "gulp-stylus": "^2.6.0",
+    "gulp-util": "^3.0.8",
+    "normalize.css": "^7.0.0"
+  }
+}
