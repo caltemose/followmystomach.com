@@ -7,9 +7,12 @@ const stylus = require('gulp-stylus')
 const stylint = require('gulp-stylint')
 const browsersync = require('browser-sync').create()
 const environments = require('gulp-environments')
+const s3 = require('gulp-s3')
 
 const production = environments.production
 const develop = environments.develop
+
+const AWS_CREDS = production ? require('./ignore/s3-dev') : require('./ignore/s3-prod')
 
 /* Helper functions
 ---------------------------------------------------------------- */
@@ -52,6 +55,10 @@ gulp.task('reload', (done) => {
     done()
 })
 
+gulp.task('s3', () => {
+    return gulp.src('./dist/**').pipe(s3(AWS_CREDS))
+})
+
 
 /* Watchers
 ---------------------------------------------------------------- */
@@ -86,6 +93,15 @@ gulp.task('lint', gulp.series('lint:stylus'))
 /* Primary tasks used by NPM scripts
 ---------------------------------------------------------------- */
 
+// build un-minified dist folder
 gulp.task('build', gulp.series('clean', gulp.parallel('html', 'css')))
 
+// normal development workflow with server
 gulp.task('default', gulp.series('build', gulp.parallel('serve', 'watch')))
+
+// build then deploy to S3
+gulp.task('deploy:dev', () => {
+    gulp.series('build', 's3')
+})
+
+
