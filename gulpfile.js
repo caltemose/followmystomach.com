@@ -3,6 +3,7 @@ const path = require('path')
 const del = require('del')
 const pug = require('gulp-pug')
 const autoprefixer = require('gulp-autoprefixer')
+const stylus = require('gulp-stylus')
 const stylint = require('gulp-stylint')
 const browsersync = require('browser-sync').create()
 const environments = require('gulp-environments')
@@ -27,6 +28,13 @@ gulp.task('html', () => {
         .pipe(gulp.dest('dist'))
 })
 
+gulp.task('css', () => {
+    return gulp.src('src/styles/main.styl')
+        .pipe(stylus({ 'include css': true }))
+        .pipe(autoprefixer())
+        .pipe(gulp.dest('dist/styles'))
+        .pipe(browsersync.stream())
+})
 
 /* Watchers
 ---------------------------------------------------------------- */
@@ -45,6 +53,6 @@ gulp.task('lint', gulp.series('lint:stylus'))
 /* Primary tasks used by NPM scripts
 ---------------------------------------------------------------- */
 
-gulp.task('build', gulp.series('clean', gulp.parallel('html')))
+gulp.task('build', gulp.series('clean', gulp.parallel('html', 'css')))
 
 // gulp.task('default', gulp.series('build', gulp.parallel('')))
