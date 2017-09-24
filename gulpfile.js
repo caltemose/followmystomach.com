@@ -3,6 +3,7 @@ const path = require('path')
 const del = require('del')
 const pug = require('gulp-pug')
 const autoprefixer = require('gulp-autoprefixer')
+const stylint = require('gulp-stylint')
 const browsersync = require('browser-sync').create()
 const environments = require('gulp-environments')
 
@@ -32,6 +33,14 @@ gulp.task('html', () => {
 
 /* Linting
 ---------------------------------------------------------------- */
+
+gulp.task('lint:stylus', () => {
+    return gulp.src('src/styles/**/*')
+        .pipe(stylint())
+        .pipe(stylint.reporter())
+})
+
+gulp.task('lint', gulp.series('lint:stylus'))
 
 /* Primary tasks used by NPM scripts
 ---------------------------------------------------------------- */
