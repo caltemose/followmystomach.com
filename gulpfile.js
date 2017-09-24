@@ -36,8 +36,36 @@ gulp.task('css', () => {
         .pipe(browsersync.stream())
 })
 
+gulp.task('serve', () => {
+    browsersync.init({
+        server: {
+            baseDir: './dist'
+        },
+        port: 5555,
+        notify: false,
+        open: false
+    })
+})
+
+gulp.task('reload', (done) => {
+    browsersync.reload()
+    done()
+})
+
+
 /* Watchers
 ---------------------------------------------------------------- */
+
+gulp.task('watch:html', () => {
+    gulp.watch('src/html/**/*', gulp.series('html', 'reload'))
+})
+
+gulp.task('watch:styles', () => {
+    gulp.watch('src/styles/**/*', gulp.series('css'))
+})
+
+gulp.task('watch', gulp.parallel('watch:html', 'watch:styles'))
+
 
 /* Linting
 ---------------------------------------------------------------- */
@@ -50,9 +78,14 @@ gulp.task('lint:stylus', () => {
 
 gulp.task('lint', gulp.series('lint:stylus'))
 
+
+/* Minification/Production tasks
+---------------------------------------------------------------- */
+
+
 /* Primary tasks used by NPM scripts
 ---------------------------------------------------------------- */
 
 gulp.task('build', gulp.series('clean', gulp.parallel('html', 'css')))
 
-// gulp.task('default', gulp.series('build', gulp.parallel('')))
+gulp.task('default', gulp.series('build', gulp.parallel('serve', 'watch')))
