@@ -3,7 +3,12 @@
   "version": "0.1.0",
   "description": "Source code and content for followmystomach.com",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "./node_modules/.bin/gulp",
+    "build": "./node_modules/.bin/gulp build",
+    "lintcss": "./node_modules/.bin/gulp lint:css",
+    "lint": "./node_modules/.bin/gulp lint"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/caltemose/followmystomach.com.git"
