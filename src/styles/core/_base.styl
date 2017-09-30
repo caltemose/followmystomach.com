@@ -7,21 +7,30 @@ html, body
 body
     margin: 0
     padding: 0
-    background-color: #eee
-    font-family: 'Arimo', sans-serif
-
-main
-    margin: 0 auto
-    padding: 1em
-    max-width: 90em
-
-nav
-    a
-        display: inline-block
-        margin: 0 0.5em 0.5em
+    background-color: rgb(245, 245, 245)
+    font-family: 'Crimson Text', serif
 
 h1, h2, h3
-    font-family: 'Playfair Display', serif
+    font-family: Arial, sans-serif
 
 p, li
+    font-size: 1.2em
     line-height: 130%
+
+li
+    margin-bottom: 0.5em
+
+a
+    color: rgb(26, 94, 221)
+    text-decoration: none
+
+    &:hover, &:focus
+        color: rgb(91, 43, 188)
+        text-decoration: underline
+
+    &:focus
+        outline: none
+        background-color: rgb(212, 224, 244)
+
+    &:visited
+        color: rgb(91, 43, 188)

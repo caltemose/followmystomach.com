@@ -26,8 +26,13 @@ gulp.task('clean', (done) => {
 })
 
 gulp.task('html', () => {
-    return gulp.src(['src/html/**/*', '!src/html/**/_*.pug'])
-        .pipe(pug({}))
+    return gulp.src(['src/html/**/*.pug', '!src/html/**/_*.pug'])
+        .pipe(pug({
+            data: {
+                defaultTitle: 'Follow My Stomach',
+                separator: '|'
+            }
+        }))
         .pipe(gulp.dest('dist'))
 })
 
@@ -64,7 +69,7 @@ gulp.task('s3', () => {
 ---------------------------------------------------------------- */
 
 gulp.task('watch:html', () => {
-    gulp.watch('src/html/**/*', gulp.series('html', 'reload'))
+    gulp.watch(['src/html/**/*.pug', 'src/templates/**/*.pug'], gulp.series('html', 'reload'))
 })
 
 gulp.task('watch:styles', () => {

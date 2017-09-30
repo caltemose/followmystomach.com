@@ -1,8 +1,28 @@
-extends _layout.pug
+extends ../templates/_layout.pug
+
+block title
+    title #{defaultTitle} #{separator} A cooking guide, recipes and tips on improving your cooking habits and healthy eating.
 
 block content
     main
-        article.u-readable
+        article.u-contained
             h1 followmystomach.com
 
             p End government subsidies to processed food. We grow more corn for livestock and cars than for humans, and it&rsquo;s subsidized by more than $3 billion annually; most of it is processed beyond recognition. The story is similar for other crops, including soy: 98 percent of soybean meal becomes livestock feed, while most soybean oil is used in processed foods. Meanwhile, the marketers of the junk food made from these crops receive tax write-offs for the costs of promoting their wares. Total agricultural subsidies in 2009 were around $16 billion, which would pay for a great many of the ideas that follow.
+
+            h2 Contents
+
+            ul
+                li Manifesto
+                li Cooking guide
+                li Curated found recipes
+                li You are what you eat: holistic eating articles
+                li Recipe subjects: recursive cooking, etc
+                li Meal planning guide and examples
+                li Easy gardening for your kitchen
+
+            h2 Pages
+
+            nav.LinkList
+                a(href="/manifesto") Manifesto
+                a(href="/whole30") Whole 30
