@@ -7,7 +7,7 @@ html, body
 body
     margin: 0
     padding: 0
-    background-color: rgb(245, 245, 245)
+    background-color: #fff
     font-family: 'Crimson Text', serif
 
 body > main
@@ -16,8 +16,9 @@ body > main
     @media (min-width: 768px)
         padding-bottom: 2em
 
-h1, h2, h3
-    font-family: 'Roboto Condensed', sans-serif
+h1, h2
+    font-family: 'Roboto', sans-serif
+    font-weight: normal
 
 h2
     margin-top: 1.5em
@@ -34,22 +35,29 @@ li
 
     h3
         margin: 0 0 0.5em
-        font-size: 1.1rem
+        font-size: 1.25rem
 
     ul
         margin-bottom: 1em
 
+li li
+    list-style-type: disc
+// colorText = #333
+// colorTextLight = #888
+// colorAnchor = rgb(70, 118, 196)
+// colorAnchorActive = darken(colorAnchor, 20%)
+
 a
-    color: rgb(26, 94, 221)
+    color: colorAnchor //rgb(26, 94, 221)
     text-decoration: none
 
     &:hover, &:focus
-        color: rgb(91, 43, 188)
+        color: colorAnchorActive
         text-decoration: underline
 
     &:focus
+        color: #000
         outline: none
-        background-color: rgb(212, 224, 244)
 
     &:visited
-        color: rgb(91, 43, 188)
+        color: colorAnchorActive
