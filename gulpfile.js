@@ -12,7 +12,7 @@ const s3 = require('gulp-s3')
 const production = environments.production
 const develop = environments.develop
 
-const AWS_CREDS = production ? require('./ignore/s3-dev') : require('./ignore/s3-prod')
+const AWS_CREDS = require('./ignore/s3-dev') //production ? require('./ignore/s3-prod') : require('./ignore/s3-dev')
 
 /* Helper functions
 ---------------------------------------------------------------- */
@@ -104,9 +104,8 @@ gulp.task('build', gulp.series('clean', gulp.parallel('html', 'css')))
 // normal development workflow with server
 gulp.task('default', gulp.series('build', gulp.parallel('serve', 'watch')))
 
+// NOT WORKING
 // build then deploy to S3
-gulp.task('deploy:dev', () => {
-    gulp.series('build', 's3')
-})
-
-
+// gulp.task('deploy:dev', () => {
+//     gulp.series('build', 's3')
+// })
