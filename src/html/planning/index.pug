@@ -1,0 +1,15 @@
+extends ../../templates/_layout.pug
+
+block title
+    title #{defaultTitle} #{separator} Planning Your Meals
+
+block content
+    main
+        article.u-contained
+            h1 Planning Your Meals
+
+            p This section is about meal planning, including planning for individual meals and for the week.
+
+            nav.LinkList
+                a(href="meals") Meals
+                a(href="weekly") Weekly
