@@ -7,12 +7,12 @@ const stylus = require('gulp-stylus')
 const stylint = require('gulp-stylint')
 const browsersync = require('browser-sync').create()
 const environments = require('gulp-environments')
-const s3 = require('gulp-s3')
+// const s3 = require('gulp-s3')
 
 const production = environments.production
 const develop = environments.develop
 
-const AWS_CREDS = require('./ignore/s3-dev') //production ? require('./ignore/s3-prod') : require('./ignore/s3-dev')
+// const AWS_CREDS = require('./ignore/s3-dev') //production ? require('./ignore/s3-prod') : require('./ignore/s3-dev')
 
 /* Helper functions
 ---------------------------------------------------------------- */
