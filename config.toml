@@ -2,3 +2,26 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Follow My Stomach"
 theme = "hugo-coder"
+
+[params]
+    since = 2019
+
+[languages]
+    [languages.en]
+        languagename = "English"
+        
+        [languages.en.menu]
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 2
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Skills"
+            weight = 2
+            url = "skills/"
+
+            [[languages.en.menu.main]]
+            name = "Travel"
+            weight = 2
+            url = "travel/"

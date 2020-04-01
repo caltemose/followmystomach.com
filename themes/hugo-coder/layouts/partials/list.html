@@ -7,6 +7,13 @@
 
     {{- .Title -}}
   </h1>
+
+  {{- if .Content -}}
+    <div class="list-content">
+      {{.Content}}
+    </div>
+  {{- end -}}
+
   <ul>
     {{ range .Paginator.Pages }}
     <li>

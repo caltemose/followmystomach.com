@@ -26,11 +26,6 @@
         }
       }
     }
-    p {
-      text-align: justify;
-      text-justify: auto;
-      hyphens: auto;
-    }
   }
   .post {
     .post-title {
@@ -84,9 +79,9 @@
       }
       .date {
         display: inline-block;
-        width: 20.0rem;
-        text-align: right;
-        margin-right: 3.0rem;
+        width: 13.0rem;
+        font-size: 0.85em;
+        margin-right: 1.5rem;
         @media only screen and (max-width : 768px) {
           display: block;
           text-align: left;
