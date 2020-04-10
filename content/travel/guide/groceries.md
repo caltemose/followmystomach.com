@@ -2,6 +2,7 @@
 title: "Groceries"
 date: 2020-04-01T13:31:10-04:00
 draft: true
+weight: 3
 ---
 
 This page is about shopping for groceries when traveling, specifically using grocery stores and super markets as opposed to street/farmers' markets.

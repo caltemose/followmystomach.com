@@ -2,6 +2,7 @@
 title: "Getting Ready to Go"
 date: 2020-04-01T11:05:11-04:00
 draft: false
+weight: 1
 ---
 
 This page is about preparing for your trip abroad, specifically focusing on the cooking and food experience you want to have when traveling.

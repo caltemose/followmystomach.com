@@ -2,6 +2,7 @@
 title: "What To Do Upon Arrival"
 date: 2020-04-01T13:31:00-04:00
 draft: true
+weight: 2
 ---
 
 I'm presuming here that you've already rested from the flight/trip if it's necessary. Duh.

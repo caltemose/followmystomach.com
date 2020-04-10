@@ -2,6 +2,7 @@
 title: "Markets"
 date: 2020-04-01T13:31:20-04:00
 draft: true
+weight: 4
 ---
 
 This page is about exploring and taking advantage of foreign markets, specifically the daily or weekly markets that take over a plaza or a parking lot and offer the most variety of fresh ingredients you are likely to find.
