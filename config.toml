@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://dev.followmystomach.com/"
 languageCode = "en-us"
 title = "Follow My Stomach"
 theme = "hugo-coder"
