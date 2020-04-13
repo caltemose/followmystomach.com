@@ -1,7 +1,7 @@
 ---
 title: "Markets"
 date: 2020-04-01T13:31:20-04:00
-draft: true
+draft: false
 weight: 4
 ---
 

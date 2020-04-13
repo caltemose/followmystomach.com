@@ -5,16 +5,10 @@
   margin-bottom: 3.2rem;
   article {
     header {
-      margin-top: 6.4rem;
+      margin-top: 2rem;
       margin-bottom: 3.2rem;
       h1 {
-        font-size: 4.2rem;
-        line-height: 4.6rem;
         margin: 0;
-        @media only screen and (max-width : 768px) {
-          font-size: 4.0rem;
-          line-height: 4.4rem;
-        }
       }
     }
     footer {
@@ -70,13 +64,9 @@
 .list {
   ul {
     margin: 3.2rem 0 3.2rem 0;
-    list-style: none;
-    padding: 0;
     li {
+      margin: 1.0rem 0;
       font-size: 1.8rem;
-      @media only screen and (max-width : 768px) {
-        margin: 1.6rem 0 1.6rem 0;
-      }
       .date {
         display: inline-block;
         width: 13.0rem;
@@ -89,7 +79,7 @@
       }
       .title {
         font-size: 1.8rem;
-        color: $fg-color;
+        // color: $fg-color;
         font-family: $heading-font-family;
         font-weight: 700;
         &:hover,

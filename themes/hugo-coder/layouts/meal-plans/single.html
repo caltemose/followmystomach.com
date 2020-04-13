@@ -1,0 +1,41 @@
+{{ define "title" }}
+  {{ .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title"><h1 class="title">{{ .Title }}</h1></div>
+      </header>
+
+      <p>Here's the plan for this week:</p>
+
+      <div class="meal-plan-days">
+        {{ range .Params.days }}
+          <div class="meal-plan-day">
+            <h3>{{ .name }}</h3>
+            <h4>Lunch</h4>
+            <ul>
+              {{ range .lunch }}
+                <li>{{ .title | safeHTML }}</li>
+              {{ end }}
+            </ul>
+            <h4>Dinner</h4>
+            <ul>
+              {{ range .dinner }}
+                <li>{{ .title | safeHTML }}</li>
+              {{ end }}
+            </ul>
+          </div>
+        {{ end }}
+      </div>
+
+      {{ .Content }}
+
+      <footer>
+      </footer>
+    </article>
+
+  </section>
+{{ end }}

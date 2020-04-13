@@ -1,7 +1,7 @@
 ---
 title: "What To Do Upon Arrival"
 date: 2020-04-01T13:31:00-04:00
-draft: true
+draft: false
 weight: 2
 ---
 

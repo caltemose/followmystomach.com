@@ -13,12 +13,11 @@ body {
   color: $fg-color;
   background-color: $bg-color;
 	font-family: $text-font-family;
-	font-size: 18px;
-	font-weight: 300;
-  line-height: 1.8em;
-  @media only screen and (max-width : 768px) {
-    font-size: 16px;
-    line-height: 1.6em;
+	font-size: 16px;
+  font-weight: 300;
+  line-height: 133%;
+  @media only screen and (min-width : 768px) {
+    font-size: 18px;
   }
 }
 
@@ -33,7 +32,8 @@ a {
 }
 
 p {
-  margin: 1.0rem 0;
+  margin: 1.0rem 0 1.5rem;
+  line-height: 160%;
 }
 
 h1,
@@ -91,6 +91,10 @@ h6 {
     font-size: 1.6rem;
     line-height: 2.0rem;
   }
+}
+
+li {
+  margin-bottom: 0.5rem;
 }
 
 b, strong {
