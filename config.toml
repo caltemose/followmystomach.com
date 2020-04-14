@@ -12,16 +12,21 @@ theme = "hugo-coder"
         
         [languages.en.menu]
             [[languages.en.menu.main]]
-            name = "About"
-            weight = 2
-            url = "about/"
-
-            [[languages.en.menu.main]]
-            name = "Skills"
-            weight = 2
-            url = "skills/"
+            name = "Meal Plans"
+            weight = 1
+            url = "meal-plans/"
 
             [[languages.en.menu.main]]
             name = "Travel"
             weight = 2
             url = "travel/"
+
+            [[languages.en.menu.main]]
+            name = "Skills"
+            weight = 3
+            url = "skills/"
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 4
+            url = "about/"
