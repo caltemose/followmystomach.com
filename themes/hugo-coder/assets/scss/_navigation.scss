@@ -10,6 +10,9 @@
     color: $fg-color;
   }
   a {
+    color: $link-color;
+  }
+  a {
     &:hover,
     &:focus {
       color: $link-color
