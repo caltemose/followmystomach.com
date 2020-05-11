@@ -14,5 +14,5 @@ This site hasn't gotten off the ground yet - here's some useful content to give 
 
 + [Guide to cooking when traveling](travel/guide)
 + [Basic cooking skills to avoid kitchen frustration](skills/preparation)
-+ [Meal plan for the week of 12 April 2020](meal-plans/by-date/2020-04-12)
++ [Meal plan listing](meal-plans/by-date)
 
