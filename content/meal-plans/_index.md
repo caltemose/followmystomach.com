@@ -17,7 +17,7 @@ This section will do two primary things:
 + teach you how to plan your weekly meals effectively
 + show you by example of my log of weekly meal plans
 
-[View meal plans by date](by-date/2020-04-12).
+[View meal plans by date](by-date).
 
 ## Off On The Right Foot...
 
