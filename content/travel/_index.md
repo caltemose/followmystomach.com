@@ -9,5 +9,5 @@ This section is about cooking when traveling. Currently it's sole content is a g
 Other content to come is...?
 
 
-[Read the Guide to Cooking When Traveling here](guide)
+[Read the Guide to Cooking When Traveling](guide)
 

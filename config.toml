@@ -22,11 +22,11 @@ theme = "hugo-coder"
             url = "travel/"
 
             [[languages.en.menu.main]]
+            name = "Leftovers"
+            weight = 2
+            url = "leftovers/"
+            
+            [[languages.en.menu.main]]
             name = "Skills"
             weight = 3
             url = "skills/"
-
-            [[languages.en.menu.main]]
-            name = "About"
-            weight = 4
-            url = "about/"
