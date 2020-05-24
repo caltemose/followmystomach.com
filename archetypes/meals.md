@@ -1,5 +1,5 @@
 {
-    "title": "Meal Plan For: {{ .Name | title }}",
+    "title": "Meals For: {{ .Name | title }}",
     "date": "{{ .Date }}",
     "draft": true,
     "days": [

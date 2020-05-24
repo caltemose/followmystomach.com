@@ -14,5 +14,5 @@ This site hasn't gotten off the ground yet - here's some useful content to give 
 
 + [Guide to cooking when traveling](travel/guide)
 + [Basic cooking skills to avoid kitchen frustration](skills/preparation)
-+ [Meal plan listing](meal-plans/by-date)
++ [Weekly meal log](meals/weekly)
 

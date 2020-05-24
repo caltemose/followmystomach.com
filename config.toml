@@ -12,9 +12,9 @@ theme = "hugo-coder"
         
         [languages.en.menu]
             [[languages.en.menu.main]]
-            name = "Meal Plans"
+            name = "Meals"
             weight = 1
-            url = "meal-plans/"
+            url = "meals/"
 
             [[languages.en.menu.main]]
             name = "Travel"
