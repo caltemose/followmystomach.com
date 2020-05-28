@@ -5,9 +5,11 @@ draft: false
 youtube:
 ---
 
+There are plenty of leftover meals, sides or supporting ingredients you can use in the morning to make a quick and easy breakfast. You can make a quick Spanish tortilla, a fritatta or an omelette - whatever suits you. As I prefer to be lazy and mix everything together, I'm usually making something more like a tortilla so I'll use that process below.
+
 {{<figure src="/img/leftovers/tortilla/tortillas-1480.jpg" alt="Tortilla Versions" >}}
 
-There are plenty of leftover meals, sides or supporting ingredients you can use in the morning to make a quick and easy breakfast. You can make a quick Spanish tortilla, a fritatta or an omelette - whatever suits you. As I prefer to be lazy and mix everything together, I'm usually making something more like a tortilla so I'll use that process below.
+## Getting Started
 
 The base recipe is quite simple, whip up an egg or two then mix in the leftovers. Here are the important aspects to get right:
 
@@ -17,19 +19,25 @@ The base recipe is quite simple, whip up an egg or two then mix in the leftovers
 
 All of these are easy to master with practice and experimentation.
 
-Quantities are important because you don't want to mix too much leftover food with the eggs. These quantities will vary based on what you're mixing into the eggs. You have wiggle room.
+### Balance quantities of ingredients
 
-Getting the process right isn't hard. Just try not to overcook the eggs. If you're going in the direction of a tortilla, keep the heat reasonably low so that you don't burn the bottom before the rest of the tortilla is done.
+Quantities are important because you don't want to mix too much leftover food with the eggs. These quantities will vary based on what you're mixing into the eggs. You have wiggle room. Play around. Your mistakes are edible.
+
+### Don't overcook the eggs
+
+Getting the process right isn't hard...just don't overcook the eggs. Always keep the heat resonably low.
+
+### Lotsa stuff goes with eggs
 
 Choosing the right leftovers is really a matter of personal taste. Here are some leftovers I've used:
 
-+ pesto (bottom left in above photo)
-+ potatoes (ideally roasted/boiled but not mashed or not mashed too much)
-+ stir fry (with or without rice)
-+ peppers and onions (leftover from sausage dinner, bottom right in above photo)
-+ lentil stew (strained the liquid out of it first, top left in above photo)
++ pesto <small>(bottom left in above photo)</small>
++ potatoes <small>(ideally roasted/boiled but not mashed or not mashed too much)</small>
++ stir fry <small>(with or without rice)</small>
++ peppers and onions <small>(leftover from sausage dinner, bottom right in above photo)</small>
++ lentil stew <small>(strained the liquid out of it first, top left in above photo)</small>
 + chili
-+ broccoli and ham (top right in above photo, side of leftover roasted potatoes I then pan-fried)
++ broccoli and ham <small>(top right in above photo, side of leftover roasted potatoes I then pan-fried)</small>
 
 {{<figure src="/img/leftovers/tortilla/broccoli-ham-leftovers-1480.jpg" alt="Broccoli and ham leftovers used to make tortilla" >}}
 

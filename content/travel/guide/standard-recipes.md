@@ -10,7 +10,7 @@ If you're going to be traveling for a longer period, it's useful to have a list 
 + relatively easy to cook
 + you enjoy cooking and eating them
 + easy to find ingredients for
-+ don't require special kitchen equipment you're unlikely to have when traveling
++ don't require special kitchen equipment
 
 A lot of times I find these recipes are also comfort food for you. It's also useful if you have some or all of these recipes memorized. If these recipes are fairly simple, and some of them should be, you've probably already memorized them.
 

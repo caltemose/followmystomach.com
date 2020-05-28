@@ -15,7 +15,7 @@ If you like to read about food culture, books can be useful during long flights/
 
 Use your tv/netflix/etc viewing habits to help motivate you and give you ideas about what to eat and where to go. I'll presume you watch some food-related or travel-related shows – use these to your advantage.
 
-Online research is also helpful and you can find more targeted and specific information such as market locations and food-related events and classes. If food blogs are your thing, there is no shortage of food blogs, usually written by expats, that focus on food in particular locations. Want suggestions on where to get ramen in Tokyo? That exists. Want to know where the best gelato is in Italy? There are no shortage of opinions on that either.
+Online research is also helpful and you can find more targeted and specific information such as market locations and food-related events and classes. If food blogs are your thing, there is no shortage of food blogs, usually written by expats, that focus on food in particular locations. Want suggestions on where to get ramen in Tokyo? That exists. Want to know where the best gelato is in Italy? There is no shortage of opinions on that either.
 
 These media can help you learn about foreign food culture, dishes, markets and specialty ingredients. They can help you get ideas about where and when to go and what to cook.
 
