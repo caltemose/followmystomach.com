@@ -5,11 +5,13 @@ draft: false
 weight: 2
 ---
 
-I'm presuming here that you've already rested from the flight/trip if it's necessary. Duh.
+You've landed and probably shouldn't go to sleep just yet. Now's your time to assess the apartment and the neighborhood.
 
 ## Assess the Apartment Situation
 
-Check out your kitchen space and the provided tools. Here are some questions to consider:
+Check out your kitchen space and the provided tools. You need to understand your constraints so you don't buy things/plan meals that are likely to fail due to missing equipment. 
+
+Here are some questions to consider:
 
 ### What size is the fridge?
 
@@ -17,7 +19,7 @@ This has rarely been a problem for me but if the fridge is very small, you need 
 
 ### How many burners does the stove have (presuming there is one)?
 
-If you're in a big city where space is costly, you might find yourself in an apartment with only one burner. This can make cooking tricky but not impossible. One burner is a limitation but any more than that and you should be fine.
+If you're in a big city where space is costly, you might find yourself in an apartment with only one burner. This can make cooking tricky but not impossible. One burner is a limitation but any more than that and you should be fine. I have done just fine in plenty of two-burner kitchens.
 
 ### Is there an oven?
 
@@ -25,11 +27,11 @@ Sometimes there isn't. I rarely use an oven when traveling so I don't find the l
 
 ### How many pots and pans are there? What sizes and types are they?
 
-Lack of pots and pans has been an issue for me a few times. In some apartments I've had plenty of pots and pans but they've all been very small. Assess the situation and see what limitations it presents. If you're expecting to have a non-stick pan in good condition, don't set your hopes too high. This kind of pan in rental apartments is usually scratched up a good bit.
+Lack of pots and pans has been an issue for me a few times. In some apartments I've had plenty of pots and pans but they've all been very small. Assess the situation and see what limitations it presents. If you're expecting to have a non-stick pan in good condition, don't get your hopes too high. This kind of pan in rental apartments is usually scratched up a good bit.
 
 ### What kind of knives do you have?
 
-Across rental apartments the knife situation can vary greatly but one thing is constant. The knives are almost always dull and never of high quality. The selection generally looks like what you'd find a a thrift store that has already been picked through by many people. That said, you'll make due. And as I've mentioned previously, if you are traveling for an extended time (i.e. quite a few months) then you may wish to carry your own chef's knife.
+Across rental apartments the knife situation can vary greatly but one thing is constant. The knives are almost always dull and never of high quality. The selection generally looks like what you'd find a a thrift store that has already been picked through by many people. That said, you'll make due. And as I've mentioned previously, if you are traveling for an extended time you may wish to carry your own chef's knife.
 
 ### What kind of storage tools are there (containers, plastic wrap, aluminum foil)?
 
@@ -38,14 +40,16 @@ This is almost always an issue and it means that you have two choices – do you
 ### What kind of secondary tools are there, if any (blender, cheese grater, hand mixer, etc)?
 
 This question is last because it's not super important. However, if you are in a place where you want to make pasta, a cheese grater is likely to be useful. Additionally, if you are somewhere there is a ton of great fruit, you may wish to make smoothies if you have a blender.
+
 The answers to these questions help you plan what to eat and figure out how simple or complex your meals can be during your stay.
 
 ## Assess the Neighborhood Situation
+
 Visit the close grocery and food stores, note their hours and explore them for an overview of what kind of ingredients are available. Pick up some staples (milk, juice, water if necessary, crackers or cookies, etc).
 
 See what kind of prepared food shops are available. They can provide dishes and prepared ingredients that are either better than you can make or that you won't be able to make because of lack of time, equipment, etc.
 
-Go eat out and let it all sink in. Think about what you saw and what appeals most to you. Get excited about cooking abroad.
+Go eat out and let it all sink in. Think about what you saw and what appeals most to you. Get excited about cooking abroad. Add map pins for anywhere you see that you know you'll want to return to.
 
 ## Next
 
