@@ -55,3 +55,5 @@ If you are taking trip for several months, some extra space in your backpack/lug
 
 The next page in this series explains [what to do when you arrive at your travel destination](../arrival).
 
+{{< travel-guide-menu getting-started=1 >}}
+

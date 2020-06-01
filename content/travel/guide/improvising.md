@@ -5,15 +5,26 @@ draft: false
 weight: 5
 ---
 
-+ Have the right mindset (constraints are good)
-+ Save food containers for leftovers
-+ Bottle as rolling pin
-+ Know when not to improvise, don't force things
 
-Working in a temporary kitchen can be fun but it's often a bit of work and requires some thinking when you plan recipes and buy ingredients. It's very likely you will not have access to a fully-stocked kitchen. How a kitchen is stocked can be a great limiter on what you can cook since it's possible you won't have an oven or may have only one stove burner or will have a very small refrigerator.
+Working in a temporary kitchen can be fun but it's often a bit of work and requires some thinking when you plan recipes and buy ingredients. You probably won't have access to a fully-stocked kitchen. How a kitchen is stocked can be a great limiter on what you can cook but if you approach it with the right attitude, you can use these limitations to your advantage.
 
-One thing you may want to carry with you if you plan to do a lot of cooking and already spend a lot of time in the kitchen is a good chef's knife. Do not expect to find good knives in any rental apartment. Just be aware of the ramifications of carrying a knife (no carry-on).
+## Keep it Simple
+
+You've already got enough variables being in a foreign kitchen, don't make things worse by trying complex recipes or preparations in a kitchen not suited to those tasks. Make recipes you have a high chance of completing successfully.
+
+## Obvious Stuff
+
+If you need an apron while cooking, you can improvise one with a bath towel tied around your waist. 
+
+Most apartments don't have much in the way of storage for leftovers so keep the useful empty containers from items you purchased at the market or grocer. They will come in handy again.
+
+Don't force the improvisation. I've used a bottle to roll pasta on enough occasions to know it's just not worth the effort. Some things can wait til you go home. You're on vacation, don't make things difficult on yourself.
+
+
+
 
 ## Next
 
 [Read about some easy-to-make, standard recipes you can use when traveling.](../standard-recipes)
+
+{{< travel-guide-menu improvising=1 >}}

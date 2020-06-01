@@ -19,19 +19,19 @@ This has rarely been a problem for me but if the fridge is very small, you need 
 
 ### How many burners does the stove have (presuming there is one)?
 
-If you're in a big city where space is costly, you might find yourself in an apartment with only one burner. This can make cooking tricky but not impossible. One burner is a limitation but any more than that and you should be fine. I have done just fine in plenty of two-burner kitchens.
+If you're in a big city where space is costly, you might find yourself in an apartment with only one burner. This can make cooking tricky but not impossible. One burner is a limitation but any more than that and you should be fine.
 
 ### Is there an oven?
 
-Sometimes there isn't. I rarely use an oven when traveling so I don't find the lack of an oven a big deal. Depending on how and what you want to cook, this may or may not be an issue for you. If you are a baker and want to bake in foreign lands, make sure your apartment has an oven before you rent it.
+Sometimes there isn't. I rarely use an oven when traveling so I don't find the lack of an oven a big deal. Depending on how and what you want to cook, this may or may not be an issue for you.
 
 ### How many pots and pans are there? What sizes and types are they?
 
-Lack of pots and pans has been an issue for me a few times. In some apartments I've had plenty of pots and pans but they've all been very small. Assess the situation and see what limitations it presents. If you're expecting to have a non-stick pan in good condition, don't get your hopes too high. This kind of pan in rental apartments is usually scratched up a good bit.
+Lack of pots and pans has been an issue for me a few times. In some apartments I've had plenty of pots and pans but they've all been very small. Assess the situation and see what limitations it presents. If you're expecting to have a non-stick pan in good condition, don't get your hopes too high. This kind of pan in rental apartments is usually a bit scratched.
 
 ### What kind of knives do you have?
 
-Across rental apartments the knife situation can vary greatly but one thing is constant. The knives are almost always dull and never of high quality. The selection generally looks like what you'd find a a thrift store that has already been picked through by many people. That said, you'll make due. And as I've mentioned previously, if you are traveling for an extended time you may wish to carry your own chef's knife.
+Across rental apartments the knife situation can vary greatly but one thing is constant. The knives are almost always dull and never of high quality. The selection generally looks like what you'd find a a thrift store that has already been picked through by many people. That said, you'll make due.
 
 ### What kind of storage tools are there (containers, plastic wrap, aluminum foil)?
 
@@ -54,3 +54,5 @@ Go eat out and let it all sink in. Think about what you saw and what appeals mos
 ## Next
 
 [The next page is this series is about buying groceries.](../groceries)
+
+{{< travel-guide-menu arrival=1 >}}

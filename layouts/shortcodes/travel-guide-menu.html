@@ -1,0 +1,39 @@
+<nav class="section-menu">
+    <h5>Sections in this Travel Guide:</h5>
+    {{ if .Get "getting-started" }}
+        <span>Getting Started</span>
+    {{ else }}
+        <a href="../getting-started">Getting Started</a>
+    {{ end }}
+    
+    {{ if .Get "arrival" }}
+        <span>Arrival</span>
+    {{ else }}
+        <a href="../arrival">Arrival</a>
+    {{ end }}
+    
+    {{ if .Get "groceries" }}
+        <span>Groceries</span>
+    {{ else }}
+        <a href="../groceries">Groceries</a>
+    {{ end }}
+
+    {{ if .Get "markets" }}
+        <span>Markets</span>
+    {{ else }}
+        <a href="../markets">Markets</a>
+    {{ end }}
+
+    {{ if .Get "improvising" }}
+        <span>Improvising</span>
+    {{ else }}
+        <a href="../improvising">Improvising</a>
+    {{ end }}
+
+    {{ if .Get "standard-recipes" }}
+        <span>Standard Recipes</span>
+    {{ else }}
+        <a href="../standard-recipes">Standard Recipes</a>
+    {{ end }}
+
+</nav>

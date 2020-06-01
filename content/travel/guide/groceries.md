@@ -17,9 +17,9 @@ This page is about shopping for groceries when traveling, specifically using gro
 
 Most importantly, don't presume people at the grocery store speak your language.
 
-Pay attention to the locals to learn any local grocery store etiquette. Specifically watch out people interact with someone behind a counter (deli, bakery, etc); watch how people line up to checkout, watch how they pay and how groceries are bagged. If you have to weigh your own produce, pay attention to how locals do that. All this stuff seems simple but being aware of minor cultural differences will help your experience be calmer.
+Pay attention to the locals to learn any local grocery store etiquette. Specifically watch how people interact with someone behind a counter (deli, bakery, etc); watch how people line up to checkout, watch how they pay and how groceries are bagged. If you have to weigh your own produce, pay attention to how locals do that. All this stuff seems simple but being aware of minor cultural differences will help your experience be calmer.
 
-Even though the daily items in a foreign super market will be ordinary/trivial to the locals, I find myself frequently excited by some of those mundane items. Be on the lookout for gems and experiment, you never know until you try something.
+Even though the daily items in a foreign super market will be ordinary/trivial to the locals, I find myself frequently excited by some of those mundane items. Be on the lookout for potential gems, you never know until you try something.
 
 The best rice pudding I've ever had came from a grocery store. The label said "as good as your grandmother's" to which I kept responding, "no, it's better." 
 
@@ -47,3 +47,4 @@ If you find great proprietors, ask them to give you a tour of their ingredients 
 
 [Read about taking advantage of local markets in the next page in this series.](../markets)
 
+{{< travel-guide-menu groceries=1 >}}
