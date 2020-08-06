@@ -1,0 +1,12 @@
+.inset-content {
+  padding: 0 2em 0 1em;
+  border: 1px solid #aaa;
+
+  h3 {
+    font-size: 1.1em;
+  }
+
+  @media (min-width: $bp-medium) {
+    padding-right: 5em;
+  }
+}

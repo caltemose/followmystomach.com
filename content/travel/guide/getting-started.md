@@ -11,7 +11,7 @@ This page is about preparing for your trip abroad, specifically focusing on the 
 
 You don't have to research before you leave but it can be helpful and motivating.
 
-If you like to read about food culture, books like [this book on food in Italy](https://www.amazon.com/Lonely-Planet-World-Italy-Guides/dp/1864500220/ref=sr_1_1?dchild=1&keywords=food+italy+lonely+planet&qid=1590761290&s=books&sr=1-1) can be useful during long flights/transportation. Books/references focused on food culture can help give you context and history, helpful for getting deeper into your culinary adventures. If you can pick up a few of these you'll have something to do during your travel time and down time that help enrich your experience. Save the physical books for reading at home and get some e-books for the trip to save on the weight.
+If you like to read about food culture, books like [this book on food in Italy](https://www.amazon.com/Lonely-Planet-World-Italy-Guides/dp/1864500220/ref=sr_1_1?dchild=1&keywords=food+italy+lonely+planet&qid=1590761290&s=books&sr=1-1) can be useful during long flights/transportation. Books/references focused on food culture can help give you context and history, helpful for getting deeper into your culinary adventures. If you can pick up a few of these you'll have something to do during your down time that helps enrich your experience. Save the physical books for reading at home and get some e-books for the trip to save on the weight.
 
 Use your tv/stream viewing habits to help motivate you and give you ideas about what to eat and where to go. I'll presume you watch some food-related or travel-related shows – use these to your advantage. Watch shows and keep a pen/mobile handy to take notes.
 
@@ -26,11 +26,11 @@ These media can help you learn about foreign food culture, dishes, markets and s
 
 ## Apartment and Location Selection
 
-All other things being equal, situate yourself near a great market unless that puts you in a super touristy location that you'd prefer to avoid. In Barcelona I picked an apartment right next to La Boqueria, a famous and beautiful market. Normally I'd have stayed elsewhere as the area around there can be too loud and packed with tourists and the kind of people who prey on them. The riches of that market were worth the cost of being next to the main tourist thoroughfare.
+All other things being equal, situate yourself near a great market. In Barcelona we stayed right next to La Boqueria, a famous and beautiful market. The riches of that market were worth the cost of being next to the main tourist thoroughfare. It was like La Boqueria was my pantry/fridge for a month.
 
 When searching for an apartment online, pay attention to the kitchen. Don't expect it to be perfect but keep an eye out for kitchens that just won't work for you. If you see no photos of the kitchen in the online listing for the apartment, avoid it. If the kitchen has no counter space or looks like it was an afterthought crammed into a space that had no kitchen when originally built, you should probably avoid the apartment. The more you search for and rent apartments, the better you'll become at spotting the places that don't work for you after quickly viewing the apartment's photos online.
 
-By the way that "if they don't have photos of it, it's probably not acceptable" rule also applies to the bedroom and bathroom. If a listing has no photos of these rooms, I avoid it.
+That "if they don't have photos of it, it's probably not acceptable" rule also applies to the bedroom and bathroom. If a listing has no photos of these rooms, I avoid it.
 
 {{<figure src="/img/travel/guide/getting-started/manarola-kitchen-1480.jpg" alt="A small but acceptable kitchen" title="A small but acceptable kitchen." caption="The kitchen above is small but perfectly acceptable given the location (Cinque Terre, Italy). Sure there's no oven or microwave, but given what you're liking to be eating here, you won't miss those. What really makes this kitchen stand out is shown in the side photo - it has a big window with an unobstructed view of the Mediterranean.">}}
 
@@ -39,21 +39,19 @@ By the way that "if they don't have photos of it, it's probably not acceptable" 
 
 ## Tools & Packing
 
-How you pack can have a huge impact on how much you enjoy your trip. I discuss those details from an overall traveling perspective elsewhere [link] but my suggestions can be simply summarized by saying do not pack more than you need. Lighter luggage is always better.
+How you pack can have a huge impact on how much you enjoy your trip. Do not pack more than you need. Lighter luggage is always better. I cannot stress this enough.
 
 {{<figure src="/img/travel/guide/getting-started/gear-2016-trip-1480.jpg" alt="Gear for 5-week trip" title="My gear for a 5-week trip" link="/img/travel/guide/getting-started/gear-2016-trip-1480.jpg" caption="This is the gear I packed for a 5-week trip to Italy. My grocery bag is that orange bag in the top left. The only gear not shown are my laptop and some toiletries." >}}
 
-If you are taking a very long trip (several months or more), you may want to consider bringing a chef's knife. Rarely will you find suitable knives in rental apartments. That said, the only time I carried tools like these was when traveling for the better part of a year and even then, I bought the chef's knife and cheese grater at our first location of the trip.
+If you are taking a very long trip (several months or more), you may want to consider bringing a chef's knife. Rarely will you find suitable knives in rental apartments. That said, you're best off carrying no kitchen gear unless your trip is quite long.
 
-If your trip is shorter, there's no reason to carry these things. However, you would be wise to carry a simple bag for groceries as it will come in handy at markets and at grocery stores. I've visited several countries where it was common for grocery stores to charge for plastic bags and the majority of shoppers carried their own. This bag will come in handy for many other things as well so it's well worth bringing. I use mine on day trips and on the flight for the things I want with me in my seat. If you are traveling with companions, I'd suggest bringing one of these bags per person. I find two bags useful when shopping at stores or markets.
+The one thing I suggest bringing is useful in many ways: a simple bag for groceries will come in handy at markets, at grocery stores and in various other situations. I use mine on day trips and on the flight for the things I want with me in my seat. If you are traveling with companions, I'd suggest bringing one of these bags per person. I find two bags useful when shopping at stores or markets.
 
 *Add photo for example*
 
-If you are taking trip for several months, some extra space in your backpack/luggage is useful for carrying perishables from one location to another. I wouldn't suggest you do this often but in a pinch, it is useful, especially if you have some leftover durable (not soft) vegetables and you're trying to be thrifty and not waste food. Normally I try to avoid this in favor of keeping my luggage light and to avoid damaging perishables but at times it can be helpful.
+If you are taking a trip for several months, some extra space in your backpack/luggage is useful for carrying perishables from one location to another. I wouldn't suggest you do this often but in a pinch, it is useful, especially if you have some leftover durable (not soft) vegetables and you're trying to be thrifty and not waste food. Normally I try to avoid this in favor of keeping my luggage light and to avoid damaging perishables but at times it can be helpful.
 
-## Next
-
-The next page in this series explains [what to do when you arrive at your travel destination](../arrival).
+{{< next-link "What to do when you arrive at your travel destination" "../arrival" >}}
 
 {{< travel-guide-menu getting-started=1 >}}
 

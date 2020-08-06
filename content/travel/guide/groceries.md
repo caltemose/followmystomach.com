@@ -9,33 +9,34 @@ This page is about shopping for groceries when traveling, specifically using gro
 
 ## Grocery Store Tips
 
+Here's some core advice you can build on:
+
 + Visit several to see what they offer
 + Learn/note their hours
 + Use them to break bigger bills (sparingly)
 + Bring your own bag(s), not everywhere provides them
-+ Get your cheap stuff here
 
 Most importantly, don't presume people at the grocery store speak your language.
 
-Pay attention to the locals to learn any local grocery store etiquette. Specifically watch how people interact with someone behind a counter (deli, bakery, etc); watch how people line up to checkout, watch how they pay and how groceries are bagged. If you have to weigh your own produce, pay attention to how locals do that. All this stuff seems simple but being aware of minor cultural differences will help your experience be calmer.
+Pay attention to the locals to learn any local grocery store etiquette. Specifically watch how people interact with someone behind a counter (deli, bakery, etc); watch how people line up to checkout, watch how they pay and how groceries are bagged. If you have to weigh your own produce, pay attention to how locals do that. All this stuff seems simple but being aware of minor cultural differences will help your experience be calmer. I have seen plenty of times when a foreigner was stumped by the "weigh your own produce" process or the "juice your own oranges" process.
 
 Even though the daily items in a foreign super market will be ordinary/trivial to the locals, I find myself frequently excited by some of those mundane items. Be on the lookout for potential gems, you never know until you try something.
 
-The best rice pudding I've ever had came from a grocery store. The label said "as good as your grandmother's" to which I kept responding, "no, it's better." 
+The best rice pudding I've ever had came from a French grocery store. The label said "as good as your grandmother's" to which I kept responding, "no, it's better." 
 
 {{<figure src="/img/travel/guide/groceries/dia-pates-1480.jpg" link="/img/travel/guide/groceries/dia-pates-1480.jpg" alt="Grocery-store brand fish pâtés" title="Generic brand fish pâtés." caption="They may be generic grocery-store branded fish pâtés but they hit the spot. I frequently miss these when at home.">}}
 
 
 ## Other Food Shops
 
-Compared to the U.S., many other countries have a larger variety of specialty food shops that are required visiting. This is frequently where you'll find local, artisenal products (sorry for all the buzzwords) that you really want to try. The best of these shops usually focus on something specific such as butchery, bakery, wines, etc.
+Many countries have a large variety of specialty food shops that are required visiting. This is where you'll find local, artisenal products (sorry for all the buzzwords) that you really want to try. The best of these shops usually focus on something specific such as butchery, bakery, wine, etc.
 
 You're looking to stumble across something unexpected and wonderful:
 
-+ Check the prepared foods (e.g. seafood salad), some can be amazing
-+ Look for friendly merchants and ask them for advice and suggestions (people love to give advice when it's convenient)
-+ If you find a good proprietor, let them guide you
-+ If you walk into a shop and it smells like heaven, don't leave empty handed. 
++ Check the prepared foods (e.g. seafood salad), some of it is amazing.
++ Look for friendly merchants and ask them for advice and suggestions when it's convenient for them.
++ When you find good proprietors, let them guide you.
++ When you walk into a shop and it smells like heaven, don't leave empty handed. 
 
 You can find some really interesting items here and more diversity than you are likely to find at a supermarket.
 
@@ -43,8 +44,6 @@ You can find some really interesting items here and more diversity than you are 
 
 If you find great proprietors, ask them to give you a tour of their ingredients if they aren't busy.
 
-## Next
-
-[Read about taking advantage of local markets in the next page in this series.](../markets)
+{{< next-link "Taking advantage of local markets" "../markets" >}}
 
 {{< travel-guide-menu groceries=1 >}}

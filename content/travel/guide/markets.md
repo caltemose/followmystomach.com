@@ -12,7 +12,7 @@ This page is about exploring and taking advantage of foreign markets, specifical
 
 ## Market Prep Work
 
-First off, learn about the main local markets before you arrive. Document their schedules so you don't accidentally miss a market because you got the day wrong. Plenty of markets, especially outside big cities, are only open 1-2 days a week. I've stayed in places for just a week and missed the main market because I didn't do my homework to find out the day the market opens.
+First off, learn about the main local markets before you arrive. Document their schedules so you don't accidentally miss a market because you got the day wrong. Plenty of markets, especially those outside big cities, are only open 1-2 days a week. I've stayed in places for just a week and missed the main market because I didn't do my homework to find out the day the market opens.
 
 ## What's Better About These Markets?
 
@@ -34,7 +34,7 @@ Smooth transactions with the vendors enhance your market experience so pay atten
 
 On my initial tour of a market I'll note which vendors appeal to me most and then stop by each one to ask questions and make purchases. Remember that as customer, you are there to get the best possible versions of the best items at the market.
 
-When you walk up to a vendor, you make an assessment of how helpful/how patient you think that vendor will be. You want to be able to determine if this vendor has the interest and time to tell you about what she or he is selling. Normally you'll have a quick interaction but when you sense the opportunity to get a vendor to open up, take advantage of that opportunity. And if you sense the vendor isn't going to be helpful or is going to try to get you to buy his difficult items, move on. 
+When you walk up to a vendor, make an assessment of how helpful/how patient you think that vendor will be. You want to be able to determine if this vendor has the interest and time to tell you about what she or he is selling. Normally you'll have a quick interaction but when you sense the opportunity to get a vendor to open up, take advantage of that opportunity. And if you sense the vendor isn't going to be helpful or is going to try to get you to buy his difficult items, move on. 
 
 Your assumption at each vendor should be that as the current customer, you deserve the best of whatever that vendor has to offer. And the customer after you deserves the second best of that vendor's goods. And so on. 
 
@@ -46,7 +46,7 @@ You've heard about tomatoes in Italy or cheese in France - now's your chance to 
 
 After this trip you may never find yourself back at this market so if you see something that might be tasty, taste it. Explore the exotic ingredients of other places.
 
-Even if you know how to cook an ingredient, ask the vendor how they suggest cooking the ingredient. A passionate vendor will take time to explain how to get the most out of an ingredient.
+*REWRITE:* If you're buying some local specialty, ask the vendor how they suggest cooking the ingredient. A passionate vendor will take time to explain how to get the most out of an ingredient.
 
 ## Don't Go Overboard
 
