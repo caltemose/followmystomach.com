@@ -12,24 +12,20 @@ theme = "hugo-coder"
         
         [languages.en.menu]
             [[languages.en.menu.main]]
-            name = "Meals"
+            name = "Notes"
             weight = 1
+            url = "notes/"
+
+            [[languages.en.menu.main]]
+            name = "Meals"
+            weight = 2
             url = "meals/"
 
             [[languages.en.menu.main]]
             name = "Travel"
-            weight = 2
+            weight = 3
             url = "travel/"
 
-            [[languages.en.menu.main]]
-            name = "Leftovers"
-            weight = 2
-            url = "leftovers/"
-            
-            [[languages.en.menu.main]]
-            name = "Skills"
-            weight = 3
-            url = "skills/"
 
 [markup]
   [markup.goldmark]

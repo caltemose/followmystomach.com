@@ -40,26 +40,3 @@
         }
     ]
 }
-
-## Before The Week
-
-
-
-## During the Week
-
-**Sunday**: 
-
-**Monday**: 
-
-**Tuesday**: 
-
-**Wednesday**: 
-
-**Thursday**: 
-
-**Friday**: 
-
-**Saturday**:
-
-
-## After The Week
